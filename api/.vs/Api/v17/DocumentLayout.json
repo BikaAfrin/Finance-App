@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Office\\React\u002B.NET core learning\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\mapper\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\mapper\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\helpers\\commentqueryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\helpers\\commentqueryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\interfaces\\iportfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\interfaces\\iportfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\dtos\\comment\\updatecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\dtos\\comment\\updatecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\migrations\\20240513104707_portfoliomanytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\migrations\\20240513104707_portfoliomanytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|e:\\office\\react\u002B.net core learning\\api\\api\\migrations\\20240515054339_commentonetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC198C-2729-4C18-A068-724EF4B59ADB}|Api\\Api.csproj|solutionrelative:api\\migrations\\20240515054339_commentonetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentMapper.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Mapper\\CommentMapper.cs",
+              "RelativeDocumentMoniker": "Api\\Mapper\\CommentMapper.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Mapper\\CommentMapper.cs",
+              "RelativeToolTip": "Api\\Mapper\\CommentMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:53:46.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Api\\Repository\\CommentRepository.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "Api\\Repository\\CommentRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:26:47.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CommentController.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:28:38.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\Comment.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Models\\Comment.cs",
+              "RelativeToolTip": "Api\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:35:21.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\StockController.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Controllers\\StockController.cs",
+              "RelativeToolTip": "Api\\Controllers\\StockController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:42:37.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Api\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Api\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:11:45.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentQueryObject.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Helpers\\CommentQueryObject.cs",
+              "RelativeDocumentMoniker": "Api\\Helpers\\CommentQueryObject.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Helpers\\CommentQueryObject.cs",
+              "RelativeToolTip": "Api\\Helpers\\CommentQueryObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:29:31.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Comment\\CommentDto.cs",
+              "RelativeDocumentMoniker": "Api\\Dtos\\Comment\\CommentDto.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Comment\\CommentDto.cs",
+              "RelativeToolTip": "Api\\Dtos\\Comment\\CommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:21:16.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Api\\Dtos\\Account\\LoginDto.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Account\\LoginDto.cs",
+              "RelativeToolTip": "Api\\Dtos\\Account\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:57:42.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "Api\\Repository\\StockRepository.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "Api\\Repository\\StockRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwCoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:08:18.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClaimExtensions.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Extensions\\ClaimExtensions.cs",
+              "RelativeDocumentMoniker": "Api\\Extensions\\ClaimExtensions.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Extensions\\ClaimExtensions.cs",
+              "RelativeToolTip": "Api\\Extensions\\ClaimExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:19:54.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240515054339_CommentOneToOne.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Migrations\\20240515054339_CommentOneToOne.cs",
+              "RelativeDocumentMoniker": "Api\\Migrations\\20240515054339_CommentOneToOne.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Migrations\\20240515054339_CommentOneToOne.cs",
+              "RelativeToolTip": "Api\\Migrations\\20240515054339_CommentOneToOne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:43:39.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\Stock.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Models\\Stock.cs",
+              "RelativeToolTip": "Api\\Models\\Stock.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:28:32.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "Api\\Interfaces\\IStockRepository.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "Api\\Interfaces\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:35:44.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PortfolioRepository.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Repository\\PortfolioRepository.cs",
+              "RelativeDocumentMoniker": "Api\\Repository\\PortfolioRepository.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Repository\\PortfolioRepository.cs",
+              "RelativeToolTip": "Api\\Repository\\PortfolioRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:15:16.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPortfolioRepository.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Interfaces\\IPortfolioRepository.cs",
+              "RelativeDocumentMoniker": "Api\\Interfaces\\IPortfolioRepository.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Interfaces\\IPortfolioRepository.cs",
+              "RelativeToolTip": "Api\\Interfaces\\IPortfolioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:12:34.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\Api\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\Api\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T14:25:53.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "Api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "RelativeToolTip": "Api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:20:21.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateCommentRequestDto.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "RelativeDocumentMoniker": "Api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "RelativeToolTip": "Api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:30:15.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateStockRequestDto.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "RelativeDocumentMoniker": "Api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "RelativeToolTip": "Api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:37:15.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240513104707_PortfolioManyToMany.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Migrations\\20240513104707_PortfolioManyToMany.cs",
+              "RelativeDocumentMoniker": "Api\\Migrations\\20240513104707_PortfolioManyToMany.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Migrations\\20240513104707_PortfolioManyToMany.cs",
+              "RelativeToolTip": "Api\\Migrations\\20240513104707_PortfolioManyToMany.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:47:07.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\Portfolio.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Models\\Portfolio.cs",
+              "RelativeToolTip": "Api\\Models\\Portfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:38:25.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Api\\Interfaces\\ITokenService.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Api\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:21:58.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StockDto.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Stock\\StockDto.cs",
+              "RelativeDocumentMoniker": "Api\\Dtos\\Stock\\StockDto.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Stock\\StockDto.cs",
+              "RelativeToolTip": "Api\\Dtos\\Stock\\StockDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:28:46.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateStockRequestDto.cs",
+              "DocumentMoniker": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "RelativeDocumentMoniker": "Api\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "ToolTip": "E:\\Office\\React\u002B.NET core learning\\api\\Api\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "RelativeToolTip": "Api\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:35:50.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

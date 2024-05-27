@@ -145,3 +145,4 @@ E:\Office\React+.NET core learning\Api\Api\bin\Debug\net8.0\Microsoft.AspNetCore
 E:\Office\React+.NET core learning\Api\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 E:\Office\React+.NET core learning\Api\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 E:\Office\React+.NET core learning\Api\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Office\React+.NET core learning\Api\Api\obj\Debug\net8.0\Api.sourcelink.json

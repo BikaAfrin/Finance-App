@@ -52,7 +52,9 @@ namespace Api.Controllers
             return Ok(commentDto);
         }
         [HttpPost]
+        //////////////////////////////////////////
         [Route("{symbol:alpha}")]
+        /////////////////////////////////////////
         [Authorize]
         public async Task<IActionResult> Create([FromRoute] string symbol, CreateCommentDto commentDto)
         {
